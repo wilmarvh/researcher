@@ -1,8 +1,6 @@
-- name: "Contact"
-  link: "contact"
-
-- name: "Resume"
-  link: "resume.pdf"
-
-- name: "About"
-  link: "/researcher/"
+- name: "Email"
+  link: "mailto:website@wilmar.me"
+- name: "Github"
+  link: "https://github.com/wilmarvh"
+- name: "Twitter"
+  link: "https://twitter.com/pietsous"

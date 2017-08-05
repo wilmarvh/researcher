@@ -1,10 +1,10 @@
-title: Researcher
-url: "http://ankitsultana.com"
-baseurl: "/researcher"
+title: wilmar.me
+url: "http://wilmar.me"
+baseurl: "/"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-63608144-1
 
 sass:
     style: compressed
