@@ -1,6 +1,6 @@
 title: wilmar.me
 url: "http://wilmar.me"
-baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
 
